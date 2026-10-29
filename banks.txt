@@ -1,0 +1,5 @@
+Lunar Bank,4000
+Mars Credit Union,5000
+Venus Express Bank,6000
+Saturn Ring Financial,7000
+Jupiter Trust,8000
